@@ -142,3 +142,5 @@ SELECT designation, COUNT(*) AS "Number of Employees" FROM manager GROUP BY desi
 ```
 ### OUTPUT:
 ![14](https://github.com/Divya110205/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119404855/775bbaef-a6aa-4351-a915-936efa8d9be9)
+### Result:
+Thus the programs implemented successfully using SQL queries.
